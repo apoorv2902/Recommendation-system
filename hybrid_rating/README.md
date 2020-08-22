@@ -1,1 +1,1 @@
-
+Hybrid Weighted average
