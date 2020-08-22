@@ -1,1 +1,1 @@
-Hybrid Weighted average
+# Hybrid Weighted average rating
